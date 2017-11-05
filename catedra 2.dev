@@ -1,0 +1,37 @@
+[Project]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\catedra 2.dev
+Name=catedra 2
+Use_gpp=1
+UnitCount=8
+ResFiles=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=E:\Archivos de programa\Dev C++\Icon\Software.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\catedra.cpp
+FileTime=785541281
+[Unit2]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\arboles.h
+FileTime=785492125
+[Unit0]
+FileTime=783454798
+[Unit3]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\interface1.h
+FileTime=784823979
+[Unit4]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\metodos.h
+FileTime=785518395
+[Unit5]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\colasprioridad.h
+FileTime=785416252
+[Unit6]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\arbolequilibrado.h
+FileTime=785416812
+[Unit7]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\dispersion.h
+[Unit8]
+FileName=E:\universidad\ramos\analisis de algoritmos\catedra 2\programa\catedra 2\programa\busquedaresiduo.h
+FileTime=785518198
